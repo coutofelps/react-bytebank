@@ -1,11 +1,11 @@
-## Alura Class Lessons
+## Projeto React Bytebank
 
-A repository created only to save all React lessons watched on Alura platform.
+epositório criado para ser utilizado pelo projeto do Bytebank desenvolvido em React nas aulas feitas através da plataforma Alura.
 
-## Authors
+## Autores
 
-* **Marcos Couto**.
+* **Marcos Felipe**.
 
-## Future Updates
+## Atualizações Futuras
 
-* Some new lessons can be added :)
+* Outras novas aulas podem ser adicionadas :)
