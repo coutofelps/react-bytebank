@@ -1,6 +1,6 @@
 ## Projeto React Bytebank
 
-epositório criado para ser utilizado pelo projeto do Bytebank desenvolvido em React nas aulas feitas através da plataforma Alura.
+Repositório criado para ser utilizado pelo projeto do Bytebank desenvolvido em React nas aulas feitas através da plataforma Alura.
 
 ## Autores
 
